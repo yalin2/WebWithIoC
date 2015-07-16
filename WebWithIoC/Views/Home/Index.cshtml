@@ -1,0 +1,125 @@
+﻿@model WebWithIoC.Models.HomeIndexViewModel
+@{
+    ViewBag.Title = "Home";
+}
+<h2>@ViewBag.Title</h2>
+
+<div class="row">
+    <h3>Customer List</h3>
+    <div class="col-md-12">
+        @if (Model.Customers.Any())
+        {
+            <table>
+                <thead>
+                    <tr>
+                        <th>Name</th>
+                        <th>Address</th>
+                    </tr>
+                </thead>
+
+                @foreach (WebWithIoC.Models.Customer customer in Model.Customers)
+                {
+                    <tr>
+                        <td>
+                            @String.Format("{1}, {0}", customer.NameFirst, customer.NameLast)
+                        </td>
+                        <td>
+                            @String.Format("{0} {1}, {2} {3}", customer.Address, customer.City, customer.State, customer.Zip)
+                        </td>
+                    </tr>
+                }
+            </table>
+        }
+        else
+        {
+            <p>There are no entries in the database.</p>
+        }
+    </div>
+    <h3>Product List</h3>
+    <div class="col-md-12">
+        @if (Model.Products.Any())
+        {
+            <table>
+                <thead>
+                    <tr>
+                        <th>Name</th>
+                        <th>Price</th>
+                        <th>Inventory</th>
+                        <th>Get</th>
+                        <th>Set</th>
+                        <th>Use</th>
+                    </tr>
+                </thead>
+
+                @foreach (WebWithIoC.Models.Product product in Model.Products)
+                {
+                    <tr id="@product.ProductId">
+                        <td>@product.Name</td>
+                        <td>@product.Price.ToString("C") / @product.Unit</td>
+                        <td style="text-align:center;" class="inventoryCount">
+                            @product.Stock</td>
+                        <td style="text-align:center;">
+                            @Html.ActionLink("Get", "GetInventory", new { id = product.ProductId }, new { @class = "getLink" })
+                            <br /><label style="padding:5px;">N/A</label>
+                        </td>
+                        <td style="text-align:center;">
+                            @Html.ActionLink("Set", "SetInventory", new { id = product.ProductId }, new { @class = "setLink" })
+                            <br /><input type="number" value="@product.Stock" />
+                        </td>
+                        <td style="text-align:center;">
+                            @Html.ActionLink("Use", "UseInventory", new { id = product.ProductId }, new { @class = "useLink" })
+                            <br /><input type="number" value="1" />
+                        </td>
+                    </tr>
+                }
+            </table>
+        }
+        else
+        {
+            <p>There are no entries in the database.</p>
+        }
+    </div>
+</div>
+<script type="text/javascript">
+    $("a.getLink").click(function () {
+        var url = $(this).attr('href');
+        var label = $(this).parent().find("label")[0];
+        var inventoryCount = $(this).parent().parent().find(".inventoryCount")[0];
+        $.get(url, null, function (data) {
+            label.innerText = data;
+            $(label).animate({ backgroundColor: "#5A5" }, 2000).animate({ backgroundColor: "#FFF" }, 1000);
+            inventoryCount.innerText = data;
+            $(inventoryCount).animate({ backgroundColor: "#5A5" }, 2000).animate({ backgroundColor: "#FFF" }, 1000);
+        }).fail(function() {
+            alert("Cannot Run Get Function")
+        });
+        return false;
+    });
+    $("a.getLink").click();
+    $("a.setLink").click(function () {
+        var url = $(this).attr('href');
+        var input = $(this).parent().find("input")[0];
+        var inventoryCount = $(this).parent().parent().find(".inventoryCount")[0];
+        var data = { count: input.value };
+        $.post(url, data, function (data) {
+            inventoryCount.innerText = data;
+            $(inventoryCount).animate({ backgroundColor: "#5A5" }, 2000).animate({ backgroundColor: "#FFF" }, 1000);
+        }).fail(function () {
+            alert("Cannot Run Set Function")
+        });
+        return false;
+    });
+    $("a.useLink").click(function () {
+        var url = $(this).attr('href');
+        var input = $(this).parent().find("input")[0];
+        var inventoryCount = $(this).parent().parent().find(".inventoryCount")[0];
+        var data = { count: input.value };
+        $.post(url, data, function (data) {
+            inventoryCount.innerText = data;
+            $(inventoryCount).animate({ backgroundColor: "#5A5" }, 2000).animate({ backgroundColor: "#FFF" }, 1000);
+        }).fail(function () {
+            alert("Cannot Run Use Function, ensure there's enough inventory.")
+        });
+        return false;
+    });
+</script>

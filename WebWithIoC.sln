@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebWithIoC", "WebWithIoC\WebWithIoC.csproj", "{7C942304-8CF2-4B50-94FC-F3D9CC40C3CA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebWithIoC.Tests", "WebWithIoC.Tests\WebWithIoC.Tests.csproj", "{568860E7-9EDC-4459-A680-52CD2117FCC0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyIocContainer", "MyIocContainer\MyIocContainer.csproj", "{4E108758-CB55-49A4-87C4-F745FD696622}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7C942304-8CF2-4B50-94FC-F3D9CC40C3CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C942304-8CF2-4B50-94FC-F3D9CC40C3CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C942304-8CF2-4B50-94FC-F3D9CC40C3CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C942304-8CF2-4B50-94FC-F3D9CC40C3CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{568860E7-9EDC-4459-A680-52CD2117FCC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{568860E7-9EDC-4459-A680-52CD2117FCC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{568860E7-9EDC-4459-A680-52CD2117FCC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{568860E7-9EDC-4459-A680-52CD2117FCC0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E108758-CB55-49A4-87C4-F745FD696622}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E108758-CB55-49A4-87C4-F745FD696622}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E108758-CB55-49A4-87C4-F745FD696622}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E108758-CB55-49A4-87C4-F745FD696622}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

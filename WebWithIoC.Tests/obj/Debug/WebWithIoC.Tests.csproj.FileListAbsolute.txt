@@ -1,0 +1,92 @@
+c:\users\ykececi\documents\visual studio 2013\Projects\WebWithIoC\WebWithIoC.Tests\obj\Debug\WebWithIoC.Tests.csprojResolveAssemblyReference.cache
+c:\users\ykececi\documents\visual studio 2013\Projects\WebWithIoC\WebWithIoC.Tests\bin\Debug\WebWithIoC.Tests.dll.config
+c:\users\ykececi\documents\visual studio 2013\Projects\WebWithIoC\WebWithIoC.Tests\bin\Debug\WebWithIoC.Tests.dll
+c:\users\ykececi\documents\visual studio 2013\Projects\WebWithIoC\WebWithIoC.Tests\bin\Debug\WebWithIoC.Tests.pdb
+c:\users\ykececi\documents\visual studio 2013\Projects\WebWithIoC\WebWithIoC.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+c:\users\ykececi\documents\visual studio 2013\Projects\WebWithIoC\WebWithIoC.Tests\bin\Debug\Newtonsoft.Json.dll
+c:\users\ykececi\documents\visual studio 2013\Projects\WebWithIoC\WebWithIoC.Tests\bin\Debug\System.Web.Helpers.dll
+c:\users\ykececi\documents\visual studio 2013\Projects\WebWithIoC\WebWithIoC.Tests\bin\Debug\System.Web.Mvc.dll
+c:\users\ykececi\documents\visual studio 2013\Projects\WebWithIoC\WebWithIoC.Tests\bin\Debug\System.Web.Razor.dll
+c:\users\ykececi\documents\visual studio 2013\Projects\WebWithIoC\WebWithIoC.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+c:\users\ykececi\documents\visual studio 2013\Projects\WebWithIoC\WebWithIoC.Tests\bin\Debug\System.Web.WebPages.dll
+c:\users\ykececi\documents\visual studio 2013\Projects\WebWithIoC\WebWithIoC.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+c:\users\ykececi\documents\visual studio 2013\Projects\WebWithIoC\WebWithIoC.Tests\bin\Debug\WebWithIoC.dll
+c:\users\ykececi\documents\visual studio 2013\Projects\WebWithIoC\WebWithIoC.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+c:\users\ykececi\documents\visual studio 2013\Projects\WebWithIoC\WebWithIoC.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+c:\users\ykececi\documents\visual studio 2013\Projects\WebWithIoC\WebWithIoC.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\ykececi\documents\visual studio 2013\Projects\WebWithIoC\WebWithIoC.Tests\bin\Debug\System.Web.Optimization.dll
+c:\users\ykececi\documents\visual studio 2013\Projects\WebWithIoC\WebWithIoC.Tests\bin\Debug\Microsoft.Owin.dll
+c:\users\ykececi\documents\visual studio 2013\Projects\WebWithIoC\WebWithIoC.Tests\bin\Debug\Owin.dll
+c:\users\ykececi\documents\visual studio 2013\Projects\WebWithIoC\WebWithIoC.Tests\bin\Debug\EntityFramework.dll
+c:\users\ykececi\documents\visual studio 2013\Projects\WebWithIoC\WebWithIoC.Tests\bin\Debug\Microsoft.Owin.Security.dll
+c:\users\ykececi\documents\visual studio 2013\Projects\WebWithIoC\WebWithIoC.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+c:\users\ykececi\documents\visual studio 2013\Projects\WebWithIoC\WebWithIoC.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\ykececi\documents\visual studio 2013\Projects\WebWithIoC\WebWithIoC.Tests\bin\Debug\WebWithIoC.pdb
+c:\users\ykececi\documents\visual studio 2013\Projects\WebWithIoC\WebWithIoC.Tests\bin\Debug\Newtonsoft.Json.xml
+c:\users\ykececi\documents\visual studio 2013\Projects\WebWithIoC\WebWithIoC.Tests\bin\Debug\System.Web.Helpers.xml
+c:\users\ykececi\documents\visual studio 2013\Projects\WebWithIoC\WebWithIoC.Tests\bin\Debug\System.Web.Mvc.xml
+c:\users\ykececi\documents\visual studio 2013\Projects\WebWithIoC\WebWithIoC.Tests\bin\Debug\System.Web.Razor.xml
+c:\users\ykececi\documents\visual studio 2013\Projects\WebWithIoC\WebWithIoC.Tests\bin\Debug\System.Web.WebPages.xml
+c:\users\ykececi\documents\visual studio 2013\Projects\WebWithIoC\WebWithIoC.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+c:\users\ykececi\documents\visual studio 2013\Projects\WebWithIoC\WebWithIoC.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+c:\users\ykececi\documents\visual studio 2013\Projects\WebWithIoC\WebWithIoC.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+c:\users\ykececi\documents\visual studio 2013\Projects\WebWithIoC\WebWithIoC.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+c:\users\ykececi\documents\visual studio 2013\Projects\WebWithIoC\WebWithIoC.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\ykececi\documents\visual studio 2013\Projects\WebWithIoC\WebWithIoC.Tests\bin\Debug\System.Web.Optimization.xml
+c:\users\ykececi\documents\visual studio 2013\Projects\WebWithIoC\WebWithIoC.Tests\bin\Debug\Microsoft.Owin.xml
+c:\users\ykececi\documents\visual studio 2013\Projects\WebWithIoC\WebWithIoC.Tests\bin\Debug\EntityFramework.xml
+c:\users\ykececi\documents\visual studio 2013\Projects\WebWithIoC\WebWithIoC.Tests\bin\Debug\Microsoft.Owin.Security.xml
+c:\users\ykececi\documents\visual studio 2013\Projects\WebWithIoC\WebWithIoC.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+c:\users\ykececi\documents\visual studio 2013\Projects\WebWithIoC\WebWithIoC.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\ykececi\documents\visual studio 2013\Projects\WebWithIoC\WebWithIoC.Tests\obj\Debug\WebWithIoC.Tests.dll
+c:\users\ykececi\documents\visual studio 2013\Projects\WebWithIoC\WebWithIoC.Tests\obj\Debug\WebWithIoC.Tests.pdb
+c:\Users\ykececi\Documents\Visual Studio 2013\Projects\WebWithIoC\WebWithIoC.Tests\bin\Debug\EntityFramework.SqlServer.dll
+c:\Users\ykececi\Documents\Visual Studio 2013\Projects\WebWithIoC\WebWithIoC.Tests\bin\Debug\EntityFramework.SqlServer.xml
+c:\Users\ykececi\Documents\Visual Studio 2013\Projects\WebWithIoC\WebWithIoC.Tests\bin\Debug\MyIocContainer.dll
+c:\Users\ykececi\Documents\Visual Studio 2013\Projects\WebWithIoC\WebWithIoC.Tests\bin\Debug\MyIocContainer.pdb
+X:\_SYNC\_ShareCommon\PROJECTS\WebWithIoC\WebWithIoC.Tests\bin\Debug\WebWithIoC.Tests.dll.config
+X:\_SYNC\_ShareCommon\PROJECTS\WebWithIoC\WebWithIoC.Tests\bin\Debug\WebWithIoC.Tests.dll
+X:\_SYNC\_ShareCommon\PROJECTS\WebWithIoC\WebWithIoC.Tests\bin\Debug\WebWithIoC.Tests.pdb
+X:\_SYNC\_ShareCommon\PROJECTS\WebWithIoC\WebWithIoC.Tests\bin\Debug\EntityFramework.dll
+X:\_SYNC\_ShareCommon\PROJECTS\WebWithIoC\WebWithIoC.Tests\bin\Debug\EntityFramework.SqlServer.dll
+X:\_SYNC\_ShareCommon\PROJECTS\WebWithIoC\WebWithIoC.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+X:\_SYNC\_ShareCommon\PROJECTS\WebWithIoC\WebWithIoC.Tests\bin\Debug\MyIocContainer.dll
+X:\_SYNC\_ShareCommon\PROJECTS\WebWithIoC\WebWithIoC.Tests\bin\Debug\Newtonsoft.Json.dll
+X:\_SYNC\_ShareCommon\PROJECTS\WebWithIoC\WebWithIoC.Tests\bin\Debug\System.Web.Helpers.dll
+X:\_SYNC\_ShareCommon\PROJECTS\WebWithIoC\WebWithIoC.Tests\bin\Debug\System.Web.Mvc.dll
+X:\_SYNC\_ShareCommon\PROJECTS\WebWithIoC\WebWithIoC.Tests\bin\Debug\System.Web.Razor.dll
+X:\_SYNC\_ShareCommon\PROJECTS\WebWithIoC\WebWithIoC.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+X:\_SYNC\_ShareCommon\PROJECTS\WebWithIoC\WebWithIoC.Tests\bin\Debug\System.Web.WebPages.dll
+X:\_SYNC\_ShareCommon\PROJECTS\WebWithIoC\WebWithIoC.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+X:\_SYNC\_ShareCommon\PROJECTS\WebWithIoC\WebWithIoC.Tests\bin\Debug\WebWithIoC.dll
+X:\_SYNC\_ShareCommon\PROJECTS\WebWithIoC\WebWithIoC.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+X:\_SYNC\_ShareCommon\PROJECTS\WebWithIoC\WebWithIoC.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+X:\_SYNC\_ShareCommon\PROJECTS\WebWithIoC\WebWithIoC.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+X:\_SYNC\_ShareCommon\PROJECTS\WebWithIoC\WebWithIoC.Tests\bin\Debug\System.Web.Optimization.dll
+X:\_SYNC\_ShareCommon\PROJECTS\WebWithIoC\WebWithIoC.Tests\bin\Debug\Microsoft.Owin.dll
+X:\_SYNC\_ShareCommon\PROJECTS\WebWithIoC\WebWithIoC.Tests\bin\Debug\Owin.dll
+X:\_SYNC\_ShareCommon\PROJECTS\WebWithIoC\WebWithIoC.Tests\bin\Debug\Microsoft.Owin.Security.dll
+X:\_SYNC\_ShareCommon\PROJECTS\WebWithIoC\WebWithIoC.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+X:\_SYNC\_ShareCommon\PROJECTS\WebWithIoC\WebWithIoC.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+X:\_SYNC\_ShareCommon\PROJECTS\WebWithIoC\WebWithIoC.Tests\bin\Debug\MyIocContainer.pdb
+X:\_SYNC\_ShareCommon\PROJECTS\WebWithIoC\WebWithIoC.Tests\bin\Debug\WebWithIoC.pdb
+X:\_SYNC\_ShareCommon\PROJECTS\WebWithIoC\WebWithIoC.Tests\bin\Debug\EntityFramework.xml
+X:\_SYNC\_ShareCommon\PROJECTS\WebWithIoC\WebWithIoC.Tests\bin\Debug\EntityFramework.SqlServer.xml
+X:\_SYNC\_ShareCommon\PROJECTS\WebWithIoC\WebWithIoC.Tests\bin\Debug\Newtonsoft.Json.xml
+X:\_SYNC\_ShareCommon\PROJECTS\WebWithIoC\WebWithIoC.Tests\bin\Debug\System.Web.Helpers.xml
+X:\_SYNC\_ShareCommon\PROJECTS\WebWithIoC\WebWithIoC.Tests\bin\Debug\System.Web.Mvc.xml
+X:\_SYNC\_ShareCommon\PROJECTS\WebWithIoC\WebWithIoC.Tests\bin\Debug\System.Web.Razor.xml
+X:\_SYNC\_ShareCommon\PROJECTS\WebWithIoC\WebWithIoC.Tests\bin\Debug\System.Web.WebPages.xml
+X:\_SYNC\_ShareCommon\PROJECTS\WebWithIoC\WebWithIoC.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+X:\_SYNC\_ShareCommon\PROJECTS\WebWithIoC\WebWithIoC.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+X:\_SYNC\_ShareCommon\PROJECTS\WebWithIoC\WebWithIoC.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+X:\_SYNC\_ShareCommon\PROJECTS\WebWithIoC\WebWithIoC.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+X:\_SYNC\_ShareCommon\PROJECTS\WebWithIoC\WebWithIoC.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+X:\_SYNC\_ShareCommon\PROJECTS\WebWithIoC\WebWithIoC.Tests\bin\Debug\System.Web.Optimization.xml
+X:\_SYNC\_ShareCommon\PROJECTS\WebWithIoC\WebWithIoC.Tests\bin\Debug\Microsoft.Owin.xml
+X:\_SYNC\_ShareCommon\PROJECTS\WebWithIoC\WebWithIoC.Tests\bin\Debug\Microsoft.Owin.Security.xml
+X:\_SYNC\_ShareCommon\PROJECTS\WebWithIoC\WebWithIoC.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+X:\_SYNC\_ShareCommon\PROJECTS\WebWithIoC\WebWithIoC.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+X:\_SYNC\_ShareCommon\PROJECTS\WebWithIoC\WebWithIoC.Tests\obj\Debug\WebWithIoC.Tests.csprojResolveAssemblyReference.cache
+X:\_SYNC\_ShareCommon\PROJECTS\WebWithIoC\WebWithIoC.Tests\obj\Debug\WebWithIoC.Tests.dll
+X:\_SYNC\_ShareCommon\PROJECTS\WebWithIoC\WebWithIoC.Tests\obj\Debug\WebWithIoC.Tests.pdb

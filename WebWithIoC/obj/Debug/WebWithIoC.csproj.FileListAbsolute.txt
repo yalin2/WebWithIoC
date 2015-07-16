@@ -1,0 +1,114 @@
+c:\users\ykececi\documents\visual studio 2013\Projects\WebWithIoC\WebWithIoC\obj\Debug\WebWithIoC.csprojResolveAssemblyReference.cache
+c:\users\ykececi\documents\visual studio 2013\Projects\WebWithIoC\WebWithIoC\bin\WebWithIoC.dll.config
+c:\users\ykececi\documents\visual studio 2013\Projects\WebWithIoC\WebWithIoC\bin\WebWithIoC.dll
+c:\users\ykececi\documents\visual studio 2013\Projects\WebWithIoC\WebWithIoC\bin\WebWithIoC.pdb
+c:\users\ykececi\documents\visual studio 2013\Projects\WebWithIoC\WebWithIoC\bin\Antlr3.Runtime.dll
+c:\users\ykececi\documents\visual studio 2013\Projects\WebWithIoC\WebWithIoC\bin\EntityFramework.dll
+c:\users\ykececi\documents\visual studio 2013\Projects\WebWithIoC\WebWithIoC\bin\EntityFramework.SqlServer.dll
+c:\users\ykececi\documents\visual studio 2013\Projects\WebWithIoC\WebWithIoC\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\ykececi\documents\visual studio 2013\Projects\WebWithIoC\WebWithIoC\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\ykececi\documents\visual studio 2013\Projects\WebWithIoC\WebWithIoC\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\ykececi\documents\visual studio 2013\Projects\WebWithIoC\WebWithIoC\bin\Microsoft.Owin.dll
+c:\users\ykececi\documents\visual studio 2013\Projects\WebWithIoC\WebWithIoC\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\ykececi\documents\visual studio 2013\Projects\WebWithIoC\WebWithIoC\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\ykececi\documents\visual studio 2013\Projects\WebWithIoC\WebWithIoC\bin\Microsoft.Owin.Security.dll
+c:\users\ykececi\documents\visual studio 2013\Projects\WebWithIoC\WebWithIoC\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\ykececi\documents\visual studio 2013\Projects\WebWithIoC\WebWithIoC\bin\Microsoft.Owin.Security.Google.dll
+c:\users\ykececi\documents\visual studio 2013\Projects\WebWithIoC\WebWithIoC\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\ykececi\documents\visual studio 2013\Projects\WebWithIoC\WebWithIoC\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\ykececi\documents\visual studio 2013\Projects\WebWithIoC\WebWithIoC\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\ykececi\documents\visual studio 2013\Projects\WebWithIoC\WebWithIoC\bin\Microsoft.Web.Infrastructure.dll
+c:\users\ykececi\documents\visual studio 2013\Projects\WebWithIoC\WebWithIoC\bin\MyIocContainer.dll
+c:\users\ykececi\documents\visual studio 2013\Projects\WebWithIoC\WebWithIoC\bin\Newtonsoft.Json.dll
+c:\users\ykececi\documents\visual studio 2013\Projects\WebWithIoC\WebWithIoC\bin\Owin.dll
+c:\users\ykececi\documents\visual studio 2013\Projects\WebWithIoC\WebWithIoC\bin\System.Web.Helpers.dll
+c:\users\ykececi\documents\visual studio 2013\Projects\WebWithIoC\WebWithIoC\bin\System.Web.Mvc.dll
+c:\users\ykececi\documents\visual studio 2013\Projects\WebWithIoC\WebWithIoC\bin\System.Web.Optimization.dll
+c:\users\ykececi\documents\visual studio 2013\Projects\WebWithIoC\WebWithIoC\bin\System.Web.Razor.dll
+c:\users\ykececi\documents\visual studio 2013\Projects\WebWithIoC\WebWithIoC\bin\System.Web.WebPages.Deployment.dll
+c:\users\ykececi\documents\visual studio 2013\Projects\WebWithIoC\WebWithIoC\bin\System.Web.WebPages.dll
+c:\users\ykececi\documents\visual studio 2013\Projects\WebWithIoC\WebWithIoC\bin\System.Web.WebPages.Razor.dll
+c:\users\ykececi\documents\visual studio 2013\Projects\WebWithIoC\WebWithIoC\bin\WebGrease.dll
+c:\users\ykececi\documents\visual studio 2013\Projects\WebWithIoC\WebWithIoC\bin\MyIocContainer.pdb
+c:\users\ykececi\documents\visual studio 2013\Projects\WebWithIoC\WebWithIoC\bin\System.Web.Helpers.xml
+c:\users\ykececi\documents\visual studio 2013\Projects\WebWithIoC\WebWithIoC\bin\System.Web.Mvc.xml
+c:\users\ykececi\documents\visual studio 2013\Projects\WebWithIoC\WebWithIoC\bin\System.Web.Optimization.xml
+c:\users\ykececi\documents\visual studio 2013\Projects\WebWithIoC\WebWithIoC\bin\System.Web.Razor.xml
+c:\users\ykececi\documents\visual studio 2013\Projects\WebWithIoC\WebWithIoC\bin\System.Web.WebPages.xml
+c:\users\ykececi\documents\visual studio 2013\Projects\WebWithIoC\WebWithIoC\bin\System.Web.WebPages.Deployment.xml
+c:\users\ykececi\documents\visual studio 2013\Projects\WebWithIoC\WebWithIoC\bin\System.Web.WebPages.Razor.xml
+c:\users\ykececi\documents\visual studio 2013\Projects\WebWithIoC\WebWithIoC\bin\Antlr3.Runtime.pdb
+c:\users\ykececi\documents\visual studio 2013\Projects\WebWithIoC\WebWithIoC\bin\Newtonsoft.Json.xml
+c:\users\ykececi\documents\visual studio 2013\Projects\WebWithIoC\WebWithIoC\bin\EntityFramework.xml
+c:\users\ykececi\documents\visual studio 2013\Projects\WebWithIoC\WebWithIoC\bin\EntityFramework.SqlServer.xml
+c:\users\ykececi\documents\visual studio 2013\Projects\WebWithIoC\WebWithIoC\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\ykececi\documents\visual studio 2013\Projects\WebWithIoC\WebWithIoC\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\ykececi\documents\visual studio 2013\Projects\WebWithIoC\WebWithIoC\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\ykececi\documents\visual studio 2013\Projects\WebWithIoC\WebWithIoC\bin\Microsoft.Owin.xml
+c:\users\ykececi\documents\visual studio 2013\Projects\WebWithIoC\WebWithIoC\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\ykececi\documents\visual studio 2013\Projects\WebWithIoC\WebWithIoC\bin\Microsoft.Owin.Security.xml
+c:\users\ykececi\documents\visual studio 2013\Projects\WebWithIoC\WebWithIoC\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\ykececi\documents\visual studio 2013\Projects\WebWithIoC\WebWithIoC\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\ykececi\documents\visual studio 2013\Projects\WebWithIoC\WebWithIoC\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\ykececi\documents\visual studio 2013\Projects\WebWithIoC\WebWithIoC\bin\Microsoft.Owin.Security.Google.xml
+c:\users\ykececi\documents\visual studio 2013\Projects\WebWithIoC\WebWithIoC\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\ykececi\documents\visual studio 2013\Projects\WebWithIoC\WebWithIoC\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\ykececi\documents\visual studio 2013\Projects\WebWithIoC\WebWithIoC\obj\Debug\WebWithIoC.dll
+c:\users\ykececi\documents\visual studio 2013\Projects\WebWithIoC\WebWithIoC\obj\Debug\WebWithIoC.pdb
+X:\_SYNC\_ShareCommon\PROJECTS\WebWithIoC\WebWithIoC\bin\WebWithIoC.dll.config
+X:\_SYNC\_ShareCommon\PROJECTS\WebWithIoC\WebWithIoC\bin\WebWithIoC.dll
+X:\_SYNC\_ShareCommon\PROJECTS\WebWithIoC\WebWithIoC\bin\WebWithIoC.pdb
+X:\_SYNC\_ShareCommon\PROJECTS\WebWithIoC\WebWithIoC\bin\Antlr3.Runtime.dll
+X:\_SYNC\_ShareCommon\PROJECTS\WebWithIoC\WebWithIoC\bin\EntityFramework.dll
+X:\_SYNC\_ShareCommon\PROJECTS\WebWithIoC\WebWithIoC\bin\EntityFramework.SqlServer.dll
+X:\_SYNC\_ShareCommon\PROJECTS\WebWithIoC\WebWithIoC\bin\Microsoft.AspNet.Identity.Core.dll
+X:\_SYNC\_ShareCommon\PROJECTS\WebWithIoC\WebWithIoC\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+X:\_SYNC\_ShareCommon\PROJECTS\WebWithIoC\WebWithIoC\bin\Microsoft.AspNet.Identity.Owin.dll
+X:\_SYNC\_ShareCommon\PROJECTS\WebWithIoC\WebWithIoC\bin\Microsoft.Owin.dll
+X:\_SYNC\_ShareCommon\PROJECTS\WebWithIoC\WebWithIoC\bin\Microsoft.Owin.Host.SystemWeb.dll
+X:\_SYNC\_ShareCommon\PROJECTS\WebWithIoC\WebWithIoC\bin\Microsoft.Owin.Security.Cookies.dll
+X:\_SYNC\_ShareCommon\PROJECTS\WebWithIoC\WebWithIoC\bin\Microsoft.Owin.Security.dll
+X:\_SYNC\_ShareCommon\PROJECTS\WebWithIoC\WebWithIoC\bin\Microsoft.Owin.Security.Facebook.dll
+X:\_SYNC\_ShareCommon\PROJECTS\WebWithIoC\WebWithIoC\bin\Microsoft.Owin.Security.Google.dll
+X:\_SYNC\_ShareCommon\PROJECTS\WebWithIoC\WebWithIoC\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+X:\_SYNC\_ShareCommon\PROJECTS\WebWithIoC\WebWithIoC\bin\Microsoft.Owin.Security.OAuth.dll
+X:\_SYNC\_ShareCommon\PROJECTS\WebWithIoC\WebWithIoC\bin\Microsoft.Owin.Security.Twitter.dll
+X:\_SYNC\_ShareCommon\PROJECTS\WebWithIoC\WebWithIoC\bin\Microsoft.Web.Infrastructure.dll
+X:\_SYNC\_ShareCommon\PROJECTS\WebWithIoC\WebWithIoC\bin\MyIocContainer.dll
+X:\_SYNC\_ShareCommon\PROJECTS\WebWithIoC\WebWithIoC\bin\Newtonsoft.Json.dll
+X:\_SYNC\_ShareCommon\PROJECTS\WebWithIoC\WebWithIoC\bin\Owin.dll
+X:\_SYNC\_ShareCommon\PROJECTS\WebWithIoC\WebWithIoC\bin\System.Web.Helpers.dll
+X:\_SYNC\_ShareCommon\PROJECTS\WebWithIoC\WebWithIoC\bin\System.Web.Mvc.dll
+X:\_SYNC\_ShareCommon\PROJECTS\WebWithIoC\WebWithIoC\bin\System.Web.Optimization.dll
+X:\_SYNC\_ShareCommon\PROJECTS\WebWithIoC\WebWithIoC\bin\System.Web.Razor.dll
+X:\_SYNC\_ShareCommon\PROJECTS\WebWithIoC\WebWithIoC\bin\System.Web.WebPages.Deployment.dll
+X:\_SYNC\_ShareCommon\PROJECTS\WebWithIoC\WebWithIoC\bin\System.Web.WebPages.dll
+X:\_SYNC\_ShareCommon\PROJECTS\WebWithIoC\WebWithIoC\bin\System.Web.WebPages.Razor.dll
+X:\_SYNC\_ShareCommon\PROJECTS\WebWithIoC\WebWithIoC\bin\WebGrease.dll
+X:\_SYNC\_ShareCommon\PROJECTS\WebWithIoC\WebWithIoC\bin\MyIocContainer.pdb
+X:\_SYNC\_ShareCommon\PROJECTS\WebWithIoC\WebWithIoC\bin\EntityFramework.xml
+X:\_SYNC\_ShareCommon\PROJECTS\WebWithIoC\WebWithIoC\bin\EntityFramework.SqlServer.xml
+X:\_SYNC\_ShareCommon\PROJECTS\WebWithIoC\WebWithIoC\bin\System.Web.Helpers.xml
+X:\_SYNC\_ShareCommon\PROJECTS\WebWithIoC\WebWithIoC\bin\System.Web.Mvc.xml
+X:\_SYNC\_ShareCommon\PROJECTS\WebWithIoC\WebWithIoC\bin\System.Web.Optimization.xml
+X:\_SYNC\_ShareCommon\PROJECTS\WebWithIoC\WebWithIoC\bin\System.Web.Razor.xml
+X:\_SYNC\_ShareCommon\PROJECTS\WebWithIoC\WebWithIoC\bin\System.Web.WebPages.xml
+X:\_SYNC\_ShareCommon\PROJECTS\WebWithIoC\WebWithIoC\bin\System.Web.WebPages.Deployment.xml
+X:\_SYNC\_ShareCommon\PROJECTS\WebWithIoC\WebWithIoC\bin\System.Web.WebPages.Razor.xml
+X:\_SYNC\_ShareCommon\PROJECTS\WebWithIoC\WebWithIoC\bin\Antlr3.Runtime.pdb
+X:\_SYNC\_ShareCommon\PROJECTS\WebWithIoC\WebWithIoC\bin\Newtonsoft.Json.xml
+X:\_SYNC\_ShareCommon\PROJECTS\WebWithIoC\WebWithIoC\bin\Microsoft.AspNet.Identity.Core.xml
+X:\_SYNC\_ShareCommon\PROJECTS\WebWithIoC\WebWithIoC\bin\Microsoft.AspNet.Identity.Owin.xml
+X:\_SYNC\_ShareCommon\PROJECTS\WebWithIoC\WebWithIoC\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+X:\_SYNC\_ShareCommon\PROJECTS\WebWithIoC\WebWithIoC\bin\Microsoft.Owin.xml
+X:\_SYNC\_ShareCommon\PROJECTS\WebWithIoC\WebWithIoC\bin\Microsoft.Owin.Host.SystemWeb.xml
+X:\_SYNC\_ShareCommon\PROJECTS\WebWithIoC\WebWithIoC\bin\Microsoft.Owin.Security.xml
+X:\_SYNC\_ShareCommon\PROJECTS\WebWithIoC\WebWithIoC\bin\Microsoft.Owin.Security.Facebook.xml
+X:\_SYNC\_ShareCommon\PROJECTS\WebWithIoC\WebWithIoC\bin\Microsoft.Owin.Security.Cookies.xml
+X:\_SYNC\_ShareCommon\PROJECTS\WebWithIoC\WebWithIoC\bin\Microsoft.Owin.Security.OAuth.xml
+X:\_SYNC\_ShareCommon\PROJECTS\WebWithIoC\WebWithIoC\bin\Microsoft.Owin.Security.Google.xml
+X:\_SYNC\_ShareCommon\PROJECTS\WebWithIoC\WebWithIoC\bin\Microsoft.Owin.Security.Twitter.xml
+X:\_SYNC\_ShareCommon\PROJECTS\WebWithIoC\WebWithIoC\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+X:\_SYNC\_ShareCommon\PROJECTS\WebWithIoC\WebWithIoC\obj\Debug\WebWithIoC.csprojResolveAssemblyReference.cache
+X:\_SYNC\_ShareCommon\PROJECTS\WebWithIoC\WebWithIoC\obj\Debug\WebWithIoC.dll
+X:\_SYNC\_ShareCommon\PROJECTS\WebWithIoC\WebWithIoC\obj\Debug\WebWithIoC.pdb

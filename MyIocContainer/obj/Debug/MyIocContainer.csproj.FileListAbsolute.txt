@@ -1,0 +1,10 @@
+X:\_SYNC\_ShareCommon\PROJECTS\WebWithIoC\MyIocContainer\bin\Debug\MyIocContainer.dll.config
+X:\_SYNC\_ShareCommon\PROJECTS\WebWithIoC\MyIocContainer\bin\Debug\MyIocContainer.dll
+X:\_SYNC\_ShareCommon\PROJECTS\WebWithIoC\MyIocContainer\bin\Debug\MyIocContainer.pdb
+X:\_SYNC\_ShareCommon\PROJECTS\WebWithIoC\MyIocContainer\bin\Debug\EntityFramework.dll
+X:\_SYNC\_ShareCommon\PROJECTS\WebWithIoC\MyIocContainer\bin\Debug\EntityFramework.SqlServer.dll
+X:\_SYNC\_ShareCommon\PROJECTS\WebWithIoC\MyIocContainer\bin\Debug\EntityFramework.xml
+X:\_SYNC\_ShareCommon\PROJECTS\WebWithIoC\MyIocContainer\bin\Debug\EntityFramework.SqlServer.xml
+X:\_SYNC\_ShareCommon\PROJECTS\WebWithIoC\MyIocContainer\obj\Debug\MyIocContainer.csprojResolveAssemblyReference.cache
+X:\_SYNC\_ShareCommon\PROJECTS\WebWithIoC\MyIocContainer\obj\Debug\MyIocContainer.dll
+X:\_SYNC\_ShareCommon\PROJECTS\WebWithIoC\MyIocContainer\obj\Debug\MyIocContainer.pdb
